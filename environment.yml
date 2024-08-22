@@ -4,4 +4,7 @@ channels:
   - conda-forge
 
 dependencies:
-  - pip: -r requirements.txt
+  jupyter-book
+  numpy < 2
+  datascience
+  bqplot
