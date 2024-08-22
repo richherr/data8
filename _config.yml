@@ -31,7 +31,7 @@ launch_buttons:
   binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
 
 repository:
-  url                       : https://github.com/richherr/textbook  # The URL to your book's repository
+  url                       : https://github.com/richherr/data8  # The URL to your book's repository
   branch                    : master  # Which branch of the repository should be used when creating links
 
 sphinx:
