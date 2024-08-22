@@ -5,5 +5,4 @@ channels:
 
 dependencies:
   - pip:
-    numpy < 2
     -r requirements.txt
