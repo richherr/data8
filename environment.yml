@@ -8,3 +8,4 @@ dependencies:
   - numpy < 2
   - datascience
   - bqplot
+  - seaborn
