@@ -42,7 +42,7 @@ var initThebe = () => {
         $(".thebe-launch-button ")
         .removeClass("thebe-status-" + thebeStatus)
         .addClass("thebe-status-" + data.status)
-        .find(".loading-text").html("<span class='launch_msg'>Launching from mybinder.org: </span><span class='status'>" + data.status + "</span>");
+        .find(".loading-text").html("<span class='launch_msg'>Launching from ovh.mybinder.org: </span><span class='status'>" + data.status + "</span>");
 
         // Now update our thebe status
         thebeStatus = data.status;
