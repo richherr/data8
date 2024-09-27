@@ -1,0 +1,17 @@
+{
+    "dialog-state": {
+        "query": "logo_binder.svg",
+        "path": "",
+        "regex": true,
+        "caseSensitive": false,
+        "wholeWord": false,
+        "filePatterns": [],
+        "useGitGrep": true,
+        "excludeGitIgnore": true,
+        "excludeFilePatterns": [],
+        "resultsCount": 84,
+        "errorCount": 0,
+        "replaceErrors": "",
+        "projectRelative": true
+    }
+}

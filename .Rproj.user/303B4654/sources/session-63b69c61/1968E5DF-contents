@@ -1,0 +1,4 @@
+jupyter-book
+numpy < 2
+datascience
+bqplot

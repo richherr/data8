@@ -1,0 +1,11 @@
+name: textbook
+
+channels:
+  - conda-forge
+
+dependencies:
+  - jupyter-book
+  - numpy < 2
+  - datascience
+  - bqplot
+  - seaborn
