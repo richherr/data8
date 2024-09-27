@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "logo_binder.svg",
+        "query": "mybinder.org",
         "path": "",
         "regex": true,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 84,
+        "resultsCount": 85,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
