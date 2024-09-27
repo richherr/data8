@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "mybinder.org",
+        "query": "mybinder",
         "path": "",
         "regex": true,
         "caseSensitive": false,
