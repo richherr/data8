@@ -1,6 +1,6 @@
 {
     "dialog-state": {
-        "query": "mybinder",
+        "query": "path=tree",
         "path": "",
         "regex": true,
         "caseSensitive": false,
@@ -9,7 +9,7 @@
         "useGitGrep": true,
         "excludeGitIgnore": true,
         "excludeFilePatterns": [],
-        "resultsCount": 85,
+        "resultsCount": 168,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
